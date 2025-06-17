@@ -1,4 +1,4 @@
-# syedarhan
+# SyedArhan
 ABOUT MYSELF
 
 # 👋 Hi there, I'm Arhan Syed!
